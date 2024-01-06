@@ -1,6 +1,8 @@
 Sample of ESP32-2432S024C running on arduino
+<BR>
 arduinoで動作するESP32-2432S024Cのサンプル
-日本語解説は[Ｑｉｉｔａ](https://qiita.com/hi631/items/2fdc19d1e440f98330b1)を参照。
+<BR>
+日本語解説は[Ｑｉｉｔａ](https://qiita.com/hi631/items/2fdc19d1e440f98330b1)を参照の事。
 
 Operation screen
   ![Image01.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/159764/f8ac881f-f4a4-f34f-7bb1-54f8b4d5e2c9.jpeg)
